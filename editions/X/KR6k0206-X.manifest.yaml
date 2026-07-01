@@ -1,0 +1,210 @@
+canonical_identifier: bkk:krp/KR6k0206/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0206/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法界聖凡水陸大齋法輪寶懺
+  identifiers:
+    krp: KR6k0206
+    cbeta: X74n1499
+    cbeta_old_id: X74n1499
+    authorityid: CA0003193
+    json_key: X1499
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1499.xml
+    old_id: X74n1499
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0206_000-X.yaml, hash: 'sha256:166ddd1a96bae592b11714a41d7f51d18011e3f6689add03d3f6243e812eb6a4'}
+  - {seq: 2, filename: KR6k0206_002-X.yaml, hash: 'sha256:69cd6c47163a9be7643d985e7418f94e06fd2df94316e7e8125514e83b79cad2'}
+  - {seq: 3, filename: KR6k0206_003-X.yaml, hash: 'sha256:60844ee692048efad1c2cf56e966f27ee813396798a2afa2d429f80b41dba858'}
+  - {seq: 4, filename: KR6k0206_004-X.yaml, hash: 'sha256:1eb760702299de82bb1b43edc079a34254af6e9ac50a6e83a7dc66765f459994'}
+  - {seq: 2, filename: KR6k0206_002-X.yaml, hash: 'sha256:fd22b84197fc07d3355c2f1ffc8d9d291864e21e2a6b616ef38a2d3b907072ae'}
+  - {seq: 3, filename: KR6k0206_003-X.yaml, hash: 'sha256:fd196c5c17240353a13d4d69a09e26a95644447f2d51755211d713a1b016acff'}
+  - {seq: 4, filename: KR6k0206_004-X.yaml, hash: 'sha256:8e210a189c43541329dd9561116319f2303316de44eaa10bb609c7ff6c644071'}
+  - {seq: 5, filename: KR6k0206_005-X.yaml, hash: 'sha256:1a3f375f0ad46399407302e2a4386f8fa03c5bee89d66c3e952c62cfbc9cd897'}
+  - {seq: 6, filename: KR6k0206_006-X.yaml, hash: 'sha256:f23ff9cc288de19af35099826f11f3d3a1147406fcf5188c84b75c8545228706'}
+  - {seq: 7, filename: KR6k0206_007-X.yaml, hash: 'sha256:bf8ceee964b23b3415602ef5794325b7478af314ff56491dac246c63b92cb106'}
+  - {seq: 8, filename: KR6k0206_008-X.yaml, hash: 'sha256:97a38cebd1c1c3b36025871b0c90e5fa5c86fd082210e35232c13b6f10852353'}
+  - {seq: 9, filename: KR6k0206_009-X.yaml, hash: 'sha256:eaae87d2052331171c9bcdd0641c768c4b351b816eeaa8dd5cbc252656eb23cc'}
+  - {seq: 10, filename: KR6k0206_010-X.yaml, hash: 'sha256:e22463de361c17e98c1a39630d846dd749a59d8bcafc5ab31e1ef485b961415d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0206_000-X.markers.yaml, hash: 'sha256:368ad38dc26ec18122378e08754672788361b65b8674fd88814da250025e363a'}
+  - {seq: 2, role: markers, filename: assets/KR6k0206_002-X.markers.yaml, hash: 'sha256:61f781a277a0a471503d092832e02788d0f2e40c0519b8d154f2dd1a17d70a3a'}
+  - {seq: 3, role: markers, filename: assets/KR6k0206_003-X.markers.yaml, hash: 'sha256:c5e831ccdc0e083b98cad5eb26598dea5ac4fb97ba42566f9bcb7ab08af0811b'}
+  - {seq: 4, role: markers, filename: assets/KR6k0206_004-X.markers.yaml, hash: 'sha256:ab924bfd3938935a23b3e994a380ef3fbd49e0a7e3bd5804bebfee974eae1c62'}
+  - {seq: 2, role: markers, filename: assets/KR6k0206_002-X.markers.yaml, hash: 'sha256:61f781a277a0a471503d092832e02788d0f2e40c0519b8d154f2dd1a17d70a3a'}
+  - {seq: 3, role: markers, filename: assets/KR6k0206_003-X.markers.yaml, hash: 'sha256:c5e831ccdc0e083b98cad5eb26598dea5ac4fb97ba42566f9bcb7ab08af0811b'}
+  - {seq: 4, role: markers, filename: assets/KR6k0206_004-X.markers.yaml, hash: 'sha256:ab924bfd3938935a23b3e994a380ef3fbd49e0a7e3bd5804bebfee974eae1c62'}
+  - {seq: 5, role: markers, filename: assets/KR6k0206_005-X.markers.yaml, hash: 'sha256:b41b66b7aa0cf1bce741df45fe2518b470fda27671f68f66e7cfa20ac36f0167'}
+  - {seq: 6, role: markers, filename: assets/KR6k0206_006-X.markers.yaml, hash: 'sha256:dbb7300c54e276d9602bd9f46bc6e8b4459a3a102813fc2443e29b2fc22ec1f7'}
+  - {seq: 7, role: markers, filename: assets/KR6k0206_007-X.markers.yaml, hash: 'sha256:ee10adf38a15297a471503aba04924457740bd2491a685572ead5a2e5191b68d'}
+  - {seq: 8, role: markers, filename: assets/KR6k0206_008-X.markers.yaml, hash: 'sha256:0de94000de1fc57a98eb2e8deb8b255540696e41b3590b45419d2c646decb6e6'}
+  - {seq: 9, role: markers, filename: assets/KR6k0206_009-X.markers.yaml, hash: 'sha256:616de0cf25d2a9774ded242a566693463e6bb56bceb4b362bfa4dc613705b50f'}
+  - {seq: 10, role: markers, filename: assets/KR6k0206_010-X.markers.yaml, hash: 'sha256:df59fbf4002f9b23ba6e037f386adec00603212240d42fbfa97008ba345858d1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0206_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1499-A 法輪寶懺緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0206_X_000-mulu-2
+    span:
+    - front
+    - 255
+    - 255
+  label: 例言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0206_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 32790
+  label: 法界聖凡水陸大齋法輪寶懺
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0206_X_1a-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 懺儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0206_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 31661
+  label: 水陸道場法輪寶懺卷第一之中
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0206_X_1c-juan-start
+    span:
+    - body
+    - 0
+    - 29027
+  label: 水陸道場法輪寶懺卷第一之下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0206_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 37736
+  label: 水陸道場法輪寶懺卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0206_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 3241
+  label: 水陸道場法輪寶懺卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0206_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 1867
+  label: 水陸道場法輪寶懺卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0206_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 5583
+  label: 水陸道場法輪寶懺卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0206_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 6300
+  label: 水陸道場法輪寶懺卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0206_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 4929
+  label: 水陸道場法輪寶懺卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0206_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 4227
+  label: 水陸道場法輪寶懺卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0206_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 61981
+  label: 水陸道場法輪寶懺卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0206_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 15945
+  label: 水陸道場法輪寶懺卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0206_X_010-mulu-1
+    span:
+    - body
+    - 15716
+    - 15716
+  label: No. 1499-B
+  type: mulu
+  level: 1
+hash: sha256:386de3f7e9c143205bec8bc0c00bbe079a89e9e1ba02777229b3b94c97302e74
